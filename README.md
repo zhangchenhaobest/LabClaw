@@ -1,3 +1,29 @@
+# LabClaw
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+LabClaw – Operating Layer for LabOS (Stanford-Princeton AI Co-Scientists)
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+LabOS（斯坦福-普林斯顿 AI 联合科学家）的运行层。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # LabClaw – Operating Layer for LabOS (Stanford-Princeton AI Co-Scientists)
 
 <div align="center">
